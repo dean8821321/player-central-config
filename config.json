@@ -1,1 +1,40 @@
-{}
+
+{
+  "version": 1,
+  "site": {
+    "title": "My Video Player",
+    "defaultVideoId": null
+  },
+  "cdn": {
+    "providers": [
+      "https://cdn.videy.co/",
+      "https://cdn2.videy.co/"
+    ],
+    "selection": "random_on_save"
+  },
+  "videos": [],
+  "ads": {
+    "enabled": false,
+    "top": {
+      "enabled": false,
+      "key": "DUMMY_TOP_AD_KEY",
+      "scriptUrl": "https://example.invalid/top-ad.js",
+      "format": "iframe",
+      "width": 320,
+      "height": 50
+    },
+    "bottom": {
+      "enabled": false,
+      "key": "DUMMY_BOTTOM_AD_KEY",
+      "scriptUrl": "https://example.invalid/bottom-ad.js",
+      "format": "iframe",
+      "width": 300,
+      "height": 250
+    }
+  },
+  "histats": {
+    "enabled": false,
+    "siteId": "DUMMY_HISTATS_ID",
+    "scriptUrl": "https://example.invalid/histats.js"
+  }
+}
