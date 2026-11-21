@@ -12,11 +12,13 @@
     ],
     "selection": "random_on_save"
   },
+  "pages": [],
   "videos": [
     {
       "id": "jzvGRGGb1",
       "title": "Video Test 01",
       "url": "https://cdn.videy.co/jzvGRGGb1.mp4",
+      "pageId": null,
       "enabled": true
     }
   ],
