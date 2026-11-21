@@ -3,7 +3,7 @@
   "version": 1,
   "site": {
     "title": "My Video Player",
-    "defaultVideoId": null
+    "defaultVideoId": "jzvGRGGb1"
   },
   "cdn": {
     "providers": [
@@ -12,7 +12,14 @@
     ],
     "selection": "random_on_save"
   },
-  "videos": [],
+  "videos": [
+    {
+      "id": "jzvGRGGb1",
+      "title": "Video Test 01",
+      "url": "https://cdn.videy.co/jzvGRGGb1.mp4",
+      "enabled": true
+    }
+  ],
   "ads": {
     "enabled": false,
     "top": {
