@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "1OSyFNmx1"
@@ -36,7 +36,7 @@
       "title": "Sol Petroni - vPczhqrF1",
       "url": "https://cdn2.videy.co/vPczhqrF1.mp4",
       "pageId": "65bf43b6-30a3-4cb2-ba54-d82d9716b15e",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "jzvGRGGb1",
