@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "1OSyFNmx1"
@@ -66,12 +66,12 @@
     },
     "lp": {
       "enabled": true,
-      "key": "DEMO_LP",
-      "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
+      "key": "7c7019ddfef15fae31096d22958c076d",
+      "scriptUrl": "https://www.highrevenueformat.com/7c7019ddfef15fae31096d22958c076d/invoke.js",
       "format": "iframe",
       "width": 320,
       "height": 50,
-      "position": "both"
+      "position": "top"
     }
   },
   "histats": {
