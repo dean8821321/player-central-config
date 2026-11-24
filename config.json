@@ -1,8 +1,8 @@
 {
-  "version": 39,
+  "version": 40,
   "site": {
     "title": "My Video Player",
-    "defaultVideoId": ""
+    "defaultVideoId": "AUVSiSsy1"
   },
   "cdn": {
     "providers": [
@@ -54,6 +54,13 @@
       "url": "https://cdn2.videy.co/jzvGRGGb1.mp4",
       "pageId": null,
       "enabled": false
+    },
+    {
+      "id": "AUVSiSsy1",
+      "title": "SOL PETRONI - AUVSiSsy1",
+      "url": "https://cdn2.videy.co/AUVSiSsy1.mp4",
+      "pageId": "4d02a590-2931-40fa-aedb-a8709d9117cf",
+      "enabled": true
     }
   ],
   "ads": {
