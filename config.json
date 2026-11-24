@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": ""
@@ -12,11 +12,6 @@
     "selection": "random_on_save"
   },
   "pages": [
-    {
-      "id": "65bf43b6-30a3-4cb2-ba54-d82d9716b15e",
-      "name": "Sol Petroni",
-      "enabled": true
-    },
     {
       "id": "04ffe00f-3f81-4d9b-bed0-a04c26c3aa51",
       "name": "Hannah Kelly",
@@ -33,9 +28,9 @@
     },
     {
       "id": "vPczhqrF1",
-      "title": "Sol Petroni - vPczhqrF1",
+      "title": "My Video Player - vPczhqrF1",
       "url": "https://cdn2.videy.co/vPczhqrF1.mp4",
-      "pageId": "65bf43b6-30a3-4cb2-ba54-d82d9716b15e",
+      "pageId": null,
       "enabled": false
     },
     {
