@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "1OSyFNmx1"
@@ -55,7 +55,7 @@
       "format": "iframe",
       "width": 320,
       "height": 50,
-      "script": "<script>\nwindow.atOptions = {\"key\":\"DEMO_TOP\",\"format\":\"iframe\",\"height\":50,\"width\":320,\"params\":{}};\n</script>\n<script src=\"https://dean8821321.github.io/player-admin-dashboard/ads-demo.js\"></script>"
+      "script": "<script>\n  atOptions = {\n    'key' : '7c7019ddfef15fae31096d22958c076d',\n    'format' : 'iframe',\n    'height' : 50,\n    'width' : 320,\n    'params' : {}\n  };\n</script>\n<script src=\"https://www.highrevenueformat.com/7c7019ddfef15fae31096d22958c076d/invoke.js\"></script>"
     },
     "bottom": {
       "enabled": true,
@@ -64,7 +64,7 @@
       "format": "iframe",
       "width": 300,
       "height": 250,
-      "script": "<script>\nwindow.atOptions = {\"key\":\"DEMO_BOTTOM\",\"format\":\"iframe\",\"height\":250,\"width\":300,\"params\":{}};\n</script>\n<script src=\"https://dean8821321.github.io/player-admin-dashboard/ads-demo.js\"></script>"
+      "script": "<script async=\"async\" data-cfasync=\"false\" src=\"https://pl30669460.profitableratecpmnetwork.com/53d15fe1668ddcc7c69dc6de0ca25315/invoke.js\"></script>\n<div id=\"container-53d15fe1668ddcc7c69dc6de0ca25315\"></div>"
     },
     "lp": {
       "enabled": true,
@@ -91,11 +91,11 @@
       "enabled": true,
       "key": "DUMMY_POPUNDER_KEY",
       "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
-      "script": "<script src=\"https://dean8821321.github.io/player-admin-dashboard/ads-demo.js\"></script>"
+      "script": "PHNjcmlwdCBkYXRhLWNmYXN5bmM9ImZhbHNlIiBhc3luYyB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9haS5ibGVuZG9yYm93bGluLmNvbS9yTHdib0lsaWJ3dGoxSExlWi8xNDk5NTIiPjwvc2NyaXB0Pg=="
     },
     "direct": {
       "enabled": true,
-      "url": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js"
+      "url": "aHR0cHM6Ly91cGxjbS5jb20vNC83MzU1NDg1"
     }
   },
   "histats": {
