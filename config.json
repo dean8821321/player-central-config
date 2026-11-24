@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": ""
@@ -20,6 +20,11 @@
     {
       "id": "dcad69c0-da1e-4696-acde-398532655dcf",
       "name": "HANNAH KELLY",
+      "enabled": true
+    },
+    {
+      "id": "3de6722e-a491-479f-8f57-5a2dc228af0e",
+      "name": "CHARLOTTE AMELIA",
       "enabled": true
     }
   ],
