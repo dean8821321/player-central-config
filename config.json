@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "1OSyFNmx1"
@@ -54,7 +54,8 @@
       "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
       "format": "iframe",
       "width": 320,
-      "height": 50
+      "height": 50,
+      "script": "<script>\nwindow.atOptions = {\"key\":\"DEMO_TOP\",\"format\":\"iframe\",\"height\":50,\"width\":320,\"params\":{}};\n</script>\n<script src=\"https://dean8821321.github.io/player-admin-dashboard/ads-demo.js\"></script>"
     },
     "bottom": {
       "enabled": true,
@@ -62,7 +63,8 @@
       "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
       "format": "iframe",
       "width": 300,
-      "height": 250
+      "height": 250,
+      "script": "<script>\nwindow.atOptions = {\"key\":\"DEMO_BOTTOM\",\"format\":\"iframe\",\"height\":250,\"width\":300,\"params\":{}};\n</script>\n<script src=\"https://dean8821321.github.io/player-admin-dashboard/ads-demo.js\"></script>"
     },
     "lp": {
       "enabled": false,
@@ -85,7 +87,8 @@
     "popunder": {
       "enabled": true,
       "key": "DUMMY_POPUNDER_KEY",
-      "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js"
+      "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
+      "script": "<script src=\"https://dean8821321.github.io/player-admin-dashboard/ads-demo.js\"></script>"
     },
     "direct": {
       "enabled": true,
