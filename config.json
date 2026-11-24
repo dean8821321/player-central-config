@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -64,7 +64,7 @@
     }
   ],
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "top": {
       "enabled": true,
       "key": "DEMO_TOP",
