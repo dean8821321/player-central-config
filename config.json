@@ -1,8 +1,8 @@
 {
-  "version": 32,
+  "version": 33,
   "site": {
     "title": "My Video Player",
-    "defaultVideoId": "1OSyFNmx1"
+    "defaultVideoId": ""
   },
   "cdn": {
     "providers": [
@@ -29,21 +29,21 @@
       "title": "Hannah Kelly - 1OSyFNmx1",
       "url": "https://cdn2.videy.co/1OSyFNmx1.mp4",
       "pageId": "04ffe00f-3f81-4d9b-bed0-a04c26c3aa51",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "vPczhqrF1",
       "title": "Sol Petroni - vPczhqrF1",
       "url": "https://cdn2.videy.co/vPczhqrF1.mp4",
       "pageId": "65bf43b6-30a3-4cb2-ba54-d82d9716b15e",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "jzvGRGGb1",
       "title": "Hannah Kelly - jzvGRGGb1",
       "url": "https://cdn2.videy.co/jzvGRGGb1.mp4",
       "pageId": "04ffe00f-3f81-4d9b-bed0-a04c26c3aa51",
-      "enabled": true
+      "enabled": false
     }
   ],
   "ads": {
