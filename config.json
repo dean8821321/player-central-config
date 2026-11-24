@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": ""
@@ -25,6 +25,11 @@
     {
       "id": "3de6722e-a491-479f-8f57-5a2dc228af0e",
       "name": "CHARLOTTE AMELIA",
+      "enabled": true
+    },
+    {
+      "id": "8128a8da-e29a-4e76-b807-4702b30128fd",
+      "name": "MARIE ROSE",
       "enabled": true
     }
   ],
