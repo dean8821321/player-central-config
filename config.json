@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -45,13 +45,6 @@
       "id": "vPczhqrF1",
       "title": "My Video Player - vPczhqrF1",
       "url": "https://cdn2.videy.co/vPczhqrF1.mp4",
-      "pageId": null,
-      "enabled": false
-    },
-    {
-      "id": "jzvGRGGb1",
-      "title": "My Video Player - jzvGRGGb1",
-      "url": "https://cdn2.videy.co/jzvGRGGb1.mp4",
       "pageId": null,
       "enabled": false
     },
