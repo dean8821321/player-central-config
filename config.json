@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": ""
@@ -11,7 +11,13 @@
     ],
     "selection": "random_on_save"
   },
-  "pages": [],
+  "pages": [
+    {
+      "id": "4d02a590-2931-40fa-aedb-a8709d9117cf",
+      "name": "SOL PETRONI",
+      "enabled": true
+    }
+  ],
   "videos": [
     {
       "id": "1OSyFNmx1",
