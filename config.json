@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "1OSyFNmx1"
@@ -97,6 +97,7 @@
     "siteId": "1,5041771,4,0,0,0,00010000",
     "scriptUrl": "https://s10.histats.com/js15_as.js",
     "player": true,
-    "lp": true
+    "lp": true,
+    "script": "<!-- Histats.com  START  (aync)-->\n<script type=\"text/javascript\">var _Hasync= _Hasync|| [];\n_Hasync.push(['Histats.start', '1,5041771,4,0,0,0,00010000']);\n_Hasync.push(['Histats.fasi', '1']);\n_Hasync.push(['Histats.track_hits', '']);\n(function() {\nvar hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;\nhs.src = ('//s10.histats.com/js15_as.js');\n(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);\n})();</script>\n<noscript><a href=\"/\" target=\"_blank\"><img  src=\"//sstatic1.histats.com/0.gif?5041771&101\" alt=\"free html hit counter\" border=\"0\"></a></noscript>\n<!-- Histats.com  END  -->"
   }
 }
