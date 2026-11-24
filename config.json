@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "1OSyFNmx1"
@@ -47,9 +47,9 @@
     }
   ],
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "top": {
-      "enabled": true,
+      "enabled": false,
       "key": "DEMO_TOP",
       "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
       "format": "iframe",
@@ -58,7 +58,7 @@
       "script": "<script>\n  atOptions = {\n    'key' : '7c7019ddfef15fae31096d22958c076d',\n    'format' : 'iframe',\n    'height' : 50,\n    'width' : 320,\n    'params' : {}\n  };\n</script>\n<script src=\"https://www.highrevenueformat.com/7c7019ddfef15fae31096d22958c076d/invoke.js\"></script>"
     },
     "bottom": {
-      "enabled": true,
+      "enabled": false,
       "key": "DEMO_BOTTOM",
       "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
       "format": "iframe",
@@ -88,13 +88,13 @@
       "banner": false
     },
     "popunder": {
-      "enabled": true,
+      "enabled": false,
       "key": "DUMMY_POPUNDER_KEY",
       "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
       "script": "PHNjcmlwdCBkYXRhLWNmYXN5bmM9ImZhbHNlIiBhc3luYyB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9haS5ibGVuZG9yYm93bGluLmNvbS9yTHdib0lsaWJ3dGoxSExlWi8xNDk5NTIiPjwvc2NyaXB0Pg=="
     },
     "direct": {
-      "enabled": true,
+      "enabled": false,
       "url": "aHR0cHM6Ly91cGxjbS5jb20vNC83MzU1NDg1"
     }
   },
