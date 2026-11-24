@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -34,13 +34,6 @@
     }
   ],
   "videos": [
-    {
-      "id": "vPczhqrF1",
-      "title": "My Video Player - vPczhqrF1",
-      "url": "https://cdn2.videy.co/vPczhqrF1.mp4",
-      "pageId": null,
-      "enabled": false
-    },
     {
       "id": "AUVSiSsy1",
       "title": "SOL PETRONI - AUVSiSsy1",
