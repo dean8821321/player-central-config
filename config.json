@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": ""
@@ -15,6 +15,11 @@
     {
       "id": "4d02a590-2931-40fa-aedb-a8709d9117cf",
       "name": "SOL PETRONI",
+      "enabled": true
+    },
+    {
+      "id": "dcad69c0-da1e-4696-acde-398532655dcf",
+      "name": "HANNAH KELLY",
       "enabled": true
     }
   ],
