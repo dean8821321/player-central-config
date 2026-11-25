@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -60,6 +60,13 @@
       "title": "MARIE ROSE - inFZHIFb1",
       "url": "https://cdn2.videy.co/inFZHIFb1.mp4",
       "pageId": "8128a8da-e29a-4e76-b807-4702b30128fd",
+      "enabled": true
+    },
+    {
+      "id": "VjLKA2Zg1",
+      "title": "SOL PETRONI - VjLKA2Zg1",
+      "url": "https://cdn.videy.co/VjLKA2Zg1.mp4",
+      "pageId": "4d02a590-2931-40fa-aedb-a8709d9117cf",
       "enabled": true
     }
   ],
