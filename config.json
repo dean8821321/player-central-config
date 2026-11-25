@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -102,6 +102,13 @@
       "title": "HANNAH KELLY - erNOdtts1",
       "url": "https://cdn.videy.co/erNOdtts1.mp4",
       "pageId": "dcad69c0-da1e-4696-acde-398532655dcf",
+      "enabled": true
+    },
+    {
+      "id": "qutW03w31",
+      "title": "CHARLOTTE AMELIA - qutW03w31",
+      "url": "https://cdn.videy.co/qutW03w31.mp4",
+      "pageId": "3de6722e-a491-479f-8f57-5a2dc228af0e",
       "enabled": true
     }
   ],
