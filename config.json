@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -123,6 +123,13 @@
       "title": "SOL PETRONI - Hsb0CbjZ1",
       "url": "https://cdn.videy.co/Hsb0CbjZ1.mp4",
       "pageId": "4d02a590-2931-40fa-aedb-a8709d9117cf",
+      "enabled": true
+    },
+    {
+      "id": "guegqYvz1",
+      "title": "HANNAH KELLY - guegqYvz1",
+      "url": "https://cdn.videy.co/guegqYvz1.mp4",
+      "pageId": "dcad69c0-da1e-4696-acde-398532655dcf",
       "enabled": true
     }
   ],
