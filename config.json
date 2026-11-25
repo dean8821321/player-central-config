@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -30,6 +30,11 @@
     {
       "id": "8128a8da-e29a-4e76-b807-4702b30128fd",
       "name": "MARIE ROSE",
+      "enabled": true
+    },
+    {
+      "id": "42e72b5a-b57c-4d56-a5d2-edf25789c326",
+      "name": "FRIEND HUB",
       "enabled": true
     }
   ],
