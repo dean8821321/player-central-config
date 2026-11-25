@@ -1,5 +1,5 @@
 {
-  "version": 62,
+  "version": 63,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -135,6 +135,13 @@
       "title": "HANNAH KELLY - guegqYvz1",
       "url": "https://cdn.videy.co/guegqYvz1.mp4",
       "pageId": "dcad69c0-da1e-4696-acde-398532655dcf",
+      "enabled": true
+    },
+    {
+      "id": "YuJ2H31T1",
+      "title": "FRIEND HUB - YuJ2H31T1",
+      "url": "https://cdn2.videy.co/YuJ2H31T1.mp4",
+      "pageId": "42e72b5a-b57c-4d56-a5d2-edf25789c326",
       "enabled": true
     }
   ],
