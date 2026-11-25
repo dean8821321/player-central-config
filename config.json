@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -108,6 +108,13 @@
       "id": "qutW03w31",
       "title": "CHARLOTTE AMELIA - qutW03w31",
       "url": "https://cdn.videy.co/qutW03w31.mp4",
+      "pageId": "3de6722e-a491-479f-8f57-5a2dc228af0e",
+      "enabled": true
+    },
+    {
+      "id": "XBk5rkwx1",
+      "title": "CHARLOTTE AMELIA - XBk5rkwx1",
+      "url": "https://cdn2.videy.co/XBk5rkwx1.mp4",
       "pageId": "3de6722e-a491-479f-8f57-5a2dc228af0e",
       "enabled": true
     }
