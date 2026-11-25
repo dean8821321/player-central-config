@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -116,6 +116,13 @@
       "title": "CHARLOTTE AMELIA - XBk5rkwx1",
       "url": "https://cdn2.videy.co/XBk5rkwx1.mp4",
       "pageId": "3de6722e-a491-479f-8f57-5a2dc228af0e",
+      "enabled": true
+    },
+    {
+      "id": "Hsb0CbjZ1",
+      "title": "SOL PETRONI - Hsb0CbjZ1",
+      "url": "https://cdn.videy.co/Hsb0CbjZ1.mp4",
+      "pageId": "4d02a590-2931-40fa-aedb-a8709d9117cf",
       "enabled": true
     }
   ],
