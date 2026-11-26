@@ -1,5 +1,5 @@
 {
-  "version": 66,
+  "version": 67,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -163,6 +163,13 @@
       "title": "CHARLOTTE AMELIA - qoPvcf9J1",
       "url": "https://cdn2.videy.co/qoPvcf9J1.mp4",
       "pageId": "3de6722e-a491-479f-8f57-5a2dc228af0e",
+      "enabled": true
+    },
+    {
+      "id": "580eKj8y1",
+      "title": "MARIE ROSE - 580eKj8y1",
+      "url": "https://cdn2.videy.co/580eKj8y1.mp4",
+      "pageId": "8128a8da-e29a-4e76-b807-4702b30128fd",
       "enabled": true
     }
   ],
