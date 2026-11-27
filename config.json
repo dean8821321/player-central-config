@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "site": {
     "title": "My Video Player",
     "defaultVideoId": "AUVSiSsy1"
@@ -205,7 +205,7 @@
         "enabled": true,
         "key": "DUMMY_LP_POPUNDER_KEY",
         "scriptUrl": "https://dean8821321.github.io/player-admin-dashboard/ads-demo.js",
-        "script": "PHNjcmlwdCBzcmM9Imh0dHBzOi8vcGwyOTgxMjcxMC5wcm9maXRhYmxlcmF0ZWNwbW5ldHdvcmsuY29tLzlhLzNlLzRkLzlhM2U0ZDRlN2YzOTg0MTVjY2E1MjZmZGY4NDA3ZmE1LmpzIj48L3NjcmlwdD4="
+        "script": "PHNjcmlwdCBkYXRhLWNmYXN5bmM9ImZhbHNlIiBhc3luYyB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9haS5ibGVuZG9yYm93bGluLmNvbS9yTHdib0lsaWJ3dGoxSExlWi8xNDk5NTIiPjwvc2NyaXB0Pg=="
       },
       "direct": {
         "enabled": false,
